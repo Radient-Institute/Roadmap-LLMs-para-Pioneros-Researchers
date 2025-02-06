@@ -208,7 +208,7 @@ Ahora, digamos que queremos tener un modelo bueno en una tarea específica nuest
 
 ## 5. Evaluación y Benchmarking
 
-Verás muchos números en los papers que usan los investigadores para presumir su _overfitting_ (ejemplo: el nivel de sus modelos, _xd_). Hay que echar un vistazo a lo que representan estos números.
+Verás muchos números en los papers que usan los investigadores para presumir su _overfitting_, ejem, quize decir: el nivel de sus modelos, lol. Hay que echar un vistazo a lo que representan estos números.
 
 ### Temas Clave
 
