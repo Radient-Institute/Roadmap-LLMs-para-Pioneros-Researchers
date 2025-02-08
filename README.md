@@ -65,7 +65,7 @@ Aquí es cuando se produce el primer cambio de paradigma:
         [Ver la playlist en YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4).  
         Si estás más acostumbrado a lecturas universitarias, este curso puede resultarte útil para ganar noción del NLP, aunque es probable que gran parte del conocimiento ya lo tengas.
     - **Yannic Kilcher’s YouTube Channel** (paper reviews y discusiones)  
-        Una “máquina de herramientas” que usaremos ahora y más adelante. Cualquier modelo que te interese y si te da pereza leer el paper o no te queda claro, búscalo en este canal y te aclarará muchas cosas.  
+        Una "mausquerramienta misteriosa" que usaremos ahora y más adelante. Cualquier modelo que te interese y si te da pereza leer el paper o no te queda claro, búscalo en este canal y te aclarará muchas cosas.  
         [https://www.youtube.com/c/yannickilcher](https://www.youtube.com/c/yannickilcher)
 
 ---
@@ -437,6 +437,10 @@ En construcción de _datasets_:
 
 - **Fineweb / Fineweb Edu**  
     [https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+    
+En modelos _encoders_:
+- **ModernBert**
+    [https://github.com/AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT)
 
 ---
 
